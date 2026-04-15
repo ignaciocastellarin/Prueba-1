@@ -1,5 +1,3 @@
 x = 5
-y= 8
-print(x+y)
-
-holiamfkd
+y= 90
+print(x-y)
